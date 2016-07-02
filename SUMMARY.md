@@ -4,5 +4,5 @@
 * [The Sand Table](watertable/watertable.md)
 * [Morgan Family Reunion](morgan_family_reunion.md)
 * [Vines](vines.md)
-* National Showcase Fundraiser Garage Sale
+* [National Showcase Fundraiser Garage Sale](national_showcase_fundraiser_garage_sale.md)
 
