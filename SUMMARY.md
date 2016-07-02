@@ -1,4 +1,4 @@
 # Summary
 
-* [Contents](SUMMARY.md)
+* [The Sand Table](watertable/watertable.md)
 
