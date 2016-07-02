@@ -1,6 +1,6 @@
 # Contents
 
-[The Sand Table](watertable/watertable.md)
+* [The Sand Table](watertable/watertable.md)
 
 
 
