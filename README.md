@@ -1,1 +1,2 @@
-# themorgazine072016
+# The Morgazine
+## July 2016
