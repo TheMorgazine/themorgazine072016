@@ -6,4 +6,5 @@
 * [Vines](vines.md)
 * [National Showcase Fundraiser Garage Sale](national_showcase_fundraiser_garage_sale.md)
 * [2016 Grand Rapids Open](2016_grand_rapids_open.md)
+* Help Kayla Attend National Showcase
 
