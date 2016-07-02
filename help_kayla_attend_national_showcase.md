@@ -1,6 +1,6 @@
 # Help Kayla Attend National Showcase
 
-
+![](images/kayla_nationalshowcase.jpg)
 
 Kayla has an amazing opportunity set before her. She has qualified to compete at National Showcase , a Theatrical Figure Skating competition this August in Strongsville, Ohio. Skaters from all over the country travel to the event each year to show off their skills. Only skaters who have earned from 1st to 4th place at qualifying competitions are eligible to compete.
 
@@ -10,6 +10,8 @@ This competition is unique as the skaters compete under spotlights with the focu
 Kayla is very proud of this program. It is by far her favorite of all those she has competed with thus far.  It's been her goal all season just to qualify and now she hopes to finish up this competivite season with a strong performance at Nationals. 
 
 National Showcase will take place on August 11 -14, 2016, at the OBM Arena Ice Land USA in Strongsville Ohio.  Kayla is trying to raise funds to help with registration and practice ice costs, as well as for travel and hotel accommodations.  She is selling some items, and working some odd jobs to help with the costs, but she could use some additional help. The registration deadline for the competition is July 13th and we are trying to make sure we have all our financial ducks in a row before we commit to taking this journey.
+
+![](images/kayla_nationalshowcase2.jpg)
 
 A word from Kayla....
 
