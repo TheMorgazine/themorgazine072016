@@ -5,4 +5,5 @@
 * [Morgan Family Reunion](morgan_family_reunion.md)
 * [Vines](vines.md)
 * [National Showcase Fundraiser Garage Sale](national_showcase_fundraiser_garage_sale.md)
+* 2016 Grand Rapids Open
 
